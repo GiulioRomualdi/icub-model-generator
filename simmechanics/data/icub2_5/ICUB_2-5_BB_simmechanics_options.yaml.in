@@ -1203,3 +1203,5 @@ XMLBlobs:
         <gazebo reference="neck_yaw">
            <implicitSpringDamper>1</implicitSpringDamper>
         </gazebo>
+@ADDITIONAL_XML_BLOBS@
+
